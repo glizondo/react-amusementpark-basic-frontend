@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-amusementpark-basic-frontend/static/css/main.322bdaac.css",
+    "main.js": "/react-amusementpark-basic-frontend/static/js/main.00fa30e8.js",
+    "static/js/787.fe648903.chunk.js": "/react-amusementpark-basic-frontend/static/js/787.fe648903.chunk.js",
+    "static/media/img2.jpg": "/react-amusementpark-basic-frontend/static/media/img2.5d1142942ad1f03d5591.jpg",
+    "static/media/img3.jpg": "/react-amusementpark-basic-frontend/static/media/img3.40751a16c78d3b634f00.jpg",
+    "static/media/img4.jpg": "/react-amusementpark-basic-frontend/static/media/img4.22013410103e7fffbee2.jpg",
+    "static/media/background.jpg": "/react-amusementpark-basic-frontend/static/media/background.abd6ab300f832467e536.jpg",
+    "static/media/img1.jpg": "/react-amusementpark-basic-frontend/static/media/img1.2c80b9590c3b7ba38d1c.jpg",
+    "static/media/mikey.jpg": "/react-amusementpark-basic-frontend/static/media/mikey.80c3484c780bbd5b57ad.jpg",
+    "index.html": "/react-amusementpark-basic-frontend/index.html",
+    "static/media/menu.svg": "/react-amusementpark-basic-frontend/static/media/menu.0d3c31af19b9c297e9457042ec495ba1.svg",
+    "main.322bdaac.css.map": "/react-amusementpark-basic-frontend/static/css/main.322bdaac.css.map",
+    "main.00fa30e8.js.map": "/react-amusementpark-basic-frontend/static/js/main.00fa30e8.js.map",
+    "787.fe648903.chunk.js.map": "/react-amusementpark-basic-frontend/static/js/787.fe648903.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322bdaac.css",
+    "static/js/main.00fa30e8.js"
+  ]
+}
